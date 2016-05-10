@@ -109,12 +109,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: <a href="ecellbitj.tk">"/img/timeline/ecell.jpg"</a>
+  - image:"/img/timeline/ecell.jpg"
     date: "July 2015 - Today"
-    description: "Head Coordinator"
+    description: "E-Cell BIT | Head Coordinator"
   - image: "/img/timeline/gounesco.png"
     date: "January 2015 - July 2015"
-    description: "Campus Ambassador"
+    description: "GoUNESCO | Campus Ambassador"
 
 # First image of the Timeline
 
@@ -148,6 +148,8 @@ social:
     url: "https://twitter.com/ankitkachru"
   - title: "github"
     url: "https://github.com/ankitkachru"
+  -title: "linkedin"
+    url: "https://linkedin.com/in/ankitkachru"
 
 
 ############
