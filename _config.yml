@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image:"/img/timeline/ecell.jpg"
+  - image: "/img/timeline/ecell.jpg"
     date: "July 2015 - Today"
     description: "E-Cell BIT | Head Coordinator"
   - image: "/img/timeline/gounesco.png"
