@@ -41,7 +41,7 @@ favicon: "/img/favicon.png"
 
 black-favicon: "/img/favicon.png"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg.png"
 
 ##############################
 # Dynamic Text on the Header #
