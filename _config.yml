@@ -109,7 +109,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/ecell.jpg"
+  - image: <a href="ecellbitj.tk">"/img/timeline/ecell.jpg"</a>
     date: "July 2015 - Today"
     description: "Head Coordinator"
   - image: "/img/timeline/gounesco.png"
