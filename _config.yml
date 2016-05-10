@@ -111,10 +111,10 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/ecell.jpg"
     date: "July 2015 - Today"
-    description: "E-Cell BIT | Head Coordinator"
+    description: "E-Cell BIT \| Head Coordinator"
   - image: "/img/timeline/gounesco.png"
     date: "January 2015 - July 2015"
-    description: "GoUNESCO | Campus Ambassador"
+    description: "GoUNESCO \| Campus Ambassador"
 
 # First image of the Timeline
 
@@ -150,6 +150,8 @@ social:
     url: "https://github.com/ankitkachru"
   - title: "linkedin"
     url: "https://linkedin.com/in/ankitkachru"
+  - title: "email"
+    url: "mailto:hello@ankitkachru.xyz"
 
 
 ############
