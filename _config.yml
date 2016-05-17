@@ -113,6 +113,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/rba.png"
+    date: "May 2016 - Today"
+    description: "rapidBizApps, MTS-Intern"
   - image: "/img/timeline/ecell.jpg"
     date: "July 2015 - Today"
     description: "E-Cell BIT, Head Coordinator"
