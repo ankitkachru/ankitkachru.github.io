@@ -53,14 +53,14 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 500
 lines: # You can add HTML Tags in the Text
-  - text: "I like to code"
-  - text: "I like to create"
-  - text: "I like to design"
-  - text: "I like to develop"
-  - text: "I like to play"
-  - text: "I like to write"
+  - text: "I like to code."
+  - text: "I like to create."
+  - text: "I like to design."
+  - text: "I like to develop."
+  - text: "I like to play."
+  - text: "I like to write."
 
 me-img: "/img/ava.jpg"
 
