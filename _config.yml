@@ -55,8 +55,12 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Why so serious??"
+  - text: "I like to code"
+  - text: "I like to create"
+  - text: "I like to design"
+  - text: "I like to develop"
+  - text: "I like to play"
+  - text: "I like to write"
 
 me-img: "/img/ava.jpg"
 
