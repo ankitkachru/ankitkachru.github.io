@@ -33,7 +33,7 @@ author: "Abhishek Mukherjee"
 title: "{ Abhishek Mukherjee }"
 description: "You've reached the website of Abhishek Mukherjee."
 keywords: "abhishek, mukherjee, abhishekezzy, abhishek_ezzy, abhishek mukherjee, bit, mesra, cse, python, musician, coder, software developer"
-favicon: "/img/favicon.ico"
+favicon: "/img/alogo.png"
 
 ################
 # Header layout #
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/ifuwant.jpg"
+background-img: "../img/keepcoding.jpg"
 
 ##############################
 # Dynamic Text on the Header #
