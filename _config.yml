@@ -41,25 +41,20 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/keepcoding.jpg"
+background-img: "../img/ifuwant.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 500
-lines: # You can add HTML Tags in the Text
-  - text: "I like to Code"
-  - text: "I like to Debug"
-  - text: "I like to Develop"
-  - text: "I like to Produce Music"
-  
+#dynamic-typing: True
+#shuffle: True # Shuffle the lines.
+#loop: True
+#loop-count: False # Set False for infinite loop, or set any number for finite loop.
+#type-speed: 10
+#start-delay: 200
+#delete-delay: 500
+#lines: # You can add HTML Tags in the Text
 me-img: "/img/me.jpg"
 
 ##############################
@@ -102,7 +97,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "abhishekezzy"
 
 syntax-highlight: True
 
