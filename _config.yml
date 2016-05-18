@@ -16,7 +16,7 @@ baseurl: /abhishekezzy.github.io
 
 # Google tracking id to track your visitors
 
-google-tracking-id: ""
+google-tracking-id: "UA-77528324-2"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Abhishek Mukherjee"
+title: "{ Abhishek Mukherjee }"
+description: "You've reached the website of Abhishek Mukherjee."
+keywords: "abhishek, mukherjee, abhishekezzy, abhishek_ezzy, abhishek mukherjee, bit, mesra, cse, python, musician, coder, software developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,9 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-
+  - text: "I like to Code."
+  - text: "I like to Debug."
+  - text: "I like to Develop."
+  
 me-img: "/img/jetpacktocat.png"
 
 ##############################
