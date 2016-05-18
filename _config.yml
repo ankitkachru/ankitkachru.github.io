@@ -96,6 +96,7 @@ tumblr-share: True
 pinterest-share: True
 pocket-share: True
 vkontakte-share: True
+soundcloud-share: True
 
 disqus-shortname: "abhishekezzy"
 
@@ -121,7 +122,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "abhishekmukherjee1408@gmail.com"
 
 ################
 # Author Blurb #
@@ -140,15 +141,15 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/zombiefreeze"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/abhishek_ezzy"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/abhishekezzy"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/abhishekmukherjee1408"
+  - title: "soundcloud"
+    url: "https://soundcloud.com/abhishek_ezzy"
 
 ############
 # 404 page #
@@ -164,7 +165,7 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+#  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
