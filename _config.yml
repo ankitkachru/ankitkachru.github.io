@@ -16,7 +16,7 @@ baseurl: /abhishekezzy.github.io
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-77528324-2"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -107,10 +107,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/urbanclap.jpg"
     date: "December 2015 - January 2016"
     description: "Business Development Intern @ <a href=\"http://urbanclap.com\" target=\"_blank\">UrbanClap.</a>"
-  - image: "/img/timeline/urbanclap.jpg"
+  - image: "/img/timeline/spidertocat.png"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
@@ -132,7 +132,7 @@ email: "abhishekmukherjee1408@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Abhishek Mukherjee is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 author_blurb_image: "/img/author.png"
 
 ##################
