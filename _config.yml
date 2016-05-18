@@ -108,9 +108,9 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
+    date: "December 2015 - January 2016"
+    description: "Business Development Intern @ <a href=\"http://urbanclap.com\" target=\"_blank\">UrbanClap.</a>"
+  - image: "/img/timeline/urbanclap.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
