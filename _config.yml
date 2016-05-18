@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/alogo.png"
+black-favicon: "/img/alogo.ico"
 
 background-img: "../img/keepcoding.jpg"
 
