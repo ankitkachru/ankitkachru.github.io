@@ -163,8 +163,8 @@ social:
     url: "https://github.com/ankitkachru"
   - title: "linkedin"
     url: "https://linkedin.com/in/ankitkachru"
-  - title: "e-mail"
-    url: "mailto:hello@ankitkachru.xyz"
+  - title: "envelope"
+    url: email
 
 
 ############
