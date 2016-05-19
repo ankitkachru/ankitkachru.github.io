@@ -32,7 +32,7 @@ lang: "en"
 author: "Ankit Kachroo"
 title: "{ Ankit Kachroo }"
 description: "You've reached the website of Ankit Kachroo."
-keywords: "ankit, kachroo, ankitkachru, kachru, machine learning, bit, mesra, artificial, intelligence, python, cse"
+keywords: "ankit, kachroo, ankitkachru, kachru, machine learning, bit, mesra, artificial, intelligence, python, cse, computer, science, code, ankitkachroo, birla, institute, technology, AI"
 favicon: "/img/favicon.png"
 
 ################
@@ -164,7 +164,7 @@ social:
   - title: "linkedin"
     url: "https://linkedin.com/in/ankitkachru"
   - title: "envelope"
-    url: email
+    url: "mailto:hello@ankitkachru.xyz"
 
 
 ############
