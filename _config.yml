@@ -22,7 +22,7 @@ google-tracking-id: "UA-77528324-2"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -137,7 +137,7 @@ timeline-img: "/img/timeline/default.jpg"
 # Contact #
 ###########
 
-email: "hello@ankitkachru.xyz"
+email: "hello[at]ankitkachru[dot]xyz"
 
 ################
 # Author Blurb #
