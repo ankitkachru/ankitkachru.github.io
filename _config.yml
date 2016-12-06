@@ -137,7 +137,7 @@ timeline-img: "/img/timeline/default.jpg"
 # Contact #
 ###########
 
-email: "hello[at]ankitkachru[dot]xyz"
+email: "ankit[at]ankitkachru[dot]me"
 
 ################
 # Author Blurb #
@@ -164,7 +164,7 @@ social:
   - title: "linkedin"
     url: "https://linkedin.com/in/ankitkachru"
   - title: "envelope"
-    url: "mailto:hello@ankitkachru.xyz"
+    url: "mailto:ankit@ankitkachru.me"
 
 
 ############
