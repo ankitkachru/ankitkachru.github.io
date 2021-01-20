@@ -115,7 +115,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/sap.png"
     date: "July 2017 - Present"
-    description: "Developer @ <a href=\"https://www.sap.com\" target=\"_blank\">SAP Labs</a>"
+    description: "Software Engineer @ <a href=\"https://www.sap.com\" target=\"_blank\">SAP Labs</a>"
   - image: "/img/timeline/rba.png"
     date: "May 2016 - July 2016"
     description: "MTS-Intern @ <a href=\"http://rapidbizapps.com\" target=\"_blank\">rapidBizApps Pvt. Ltd.</a>"
