@@ -119,9 +119,6 @@ events:
   - image: "/img/timeline/rba.png"
     date: "May 2016 - July 2016"
     description: "MTS-Intern @ <a href=\"http://rapidbizapps.com\" target=\"_blank\">rapidBizApps Pvt. Ltd.</a>"
-  - image: "/img/timeline/gounesco.png"
-    date: "January 2015 - July 2015"
-    description: "Ambassador @ <a href=\"http://gounesco.com\" target=\"_blank\">GoUNESCO</a>"
   - image: "/img/timeline/bitlogo.png"
     date: "2013-2017"
     description: "Bachelor of Engineering @ <a href=\"http://bitmesra.ac.in\" target=\"_blank\">Birla Institute of Technology, Mesra, Ranchi</a> in Computer Science"
@@ -162,7 +159,7 @@ social:
   - title: "linkedin"
     url: "https://linkedin.com/in/ankitkachru"
   - title: "envelope"
-    url: "mailto:kachruankit@gmail.com"
+    url: "mailto:kachru.ankit@gmail.com"
 
 
 ############
